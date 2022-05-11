@@ -4,7 +4,7 @@
 <details>
 <summary>More...</summary>
   
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there, I am software engineering student by Brasília University. At the moment, I'm javascript developer and I love it! </h1></img>
+<h1 align="justify"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there, I am software engineering student by Brasília University. At the moment, I'm javascript developer and I love it! </h1></img>
 
 <p align="center"> I hope you enjoy my contributions 😄
 
