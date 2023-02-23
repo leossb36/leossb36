@@ -4,7 +4,7 @@
 <details>
 <summary>More...</summary>
   
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> Hello there, I am Leonardo Barreiros and I am software engineering.<br><p align="center">At the moment, I'm Backend developer with Nestjs!</p></h3><br>
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> Hello there, I am Leonardo Barreiros and I am software engineer.<br><p align="center">At the moment, I'm Backend developer with Nestjs!</p></h3><br>
 
 
 <p align="center"> I hope you enjoy my contributions 😄
